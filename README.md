@@ -31,8 +31,8 @@ This project is designed to run in an environment that can serve static files an
 
 1.  **Clone the repository (or download the files):**
     ```sh
-    git clone <repository_url>
-    cd <repository_directory>
+    git clone https://github.com/mahmad831/gemini-code-reviewer
+    
     ```
 
 2.  **API Key Configuration:**
