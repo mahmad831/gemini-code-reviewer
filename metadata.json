@@ -1,0 +1,6 @@
+{
+  "name": "Gemini Code Reviewer",
+  "description": "An AI-powered tool that uses the Gemini API to automatically review your code, providing detailed feedback on bugs, performance, style, and security.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
