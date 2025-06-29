@@ -2,7 +2,7 @@
 
 An AI-powered tool that uses the Google Gemini API to automatically review your code. It provides detailed, actionable feedback on potential bugs, performance bottlenecks, security vulnerabilities, and style issues to help you improve your code quality.
 
-## Features
+## Features 
 
 -   **AI-Powered Code Analysis:** Leverages the Gemini API for intelligent code review.
 -   **Multi-Language Support:** Supports a wide range of popular programming languages like JavaScript, Python, Java, C++, and more.
